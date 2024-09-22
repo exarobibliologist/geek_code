@@ -433,8 +433,8 @@ H = Hardware
 |:---			|	:---:	|	:---		|
 |	`H+++`		|	=		|	I am as skilled as Charles Babbage, the father of the mechanical computer.	|
 |	`H++`		|	=		|	I crafted my very own chainmail armor by smelting iron derived from ore mined through the utilization of steam-powered machinery I ingeniously fashioned from recycled car parts.			|
-|	`H+`		|	=		|				|
-|	`H`			|	=		|				|
+|	`H+`		|	=		|	|
+|	`H`			|	=		|	I'm not that impressive a handyman, but I know which tools to buy when I have to fix something.	|
 |	`H-`		|	=		|	Metaphorically speaking, I have employed hammers on numerous occasions, whereas in reality, I have rarely utilized them.	|
 |	`H--`		|	=		|	When there are issues with the hardware of my laptop, I find it preferable to bring it to a repair shop.	|
 
